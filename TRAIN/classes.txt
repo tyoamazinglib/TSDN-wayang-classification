@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Abimanyu
 Antasena
 Arjuna
@@ -12,3 +13,8 @@ Nakula
 Petruk
 Semar
 Yudhistira
+=======
+Yudhistira
+Petruk
+Semar
+>>>>>>> dd469db7c1c324f5debf5c04d40bee4130398d59
