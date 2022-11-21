@@ -1,20 +1,9 @@
-# HTML / Sass Jumpstart
+# Wayang Webcam Webapp Detection with HTML / Sass Jumpstart frontend
 
-> dart sass powered, includes stylelint and prettier, and autoprefix upon build. develop script includes hot-reload via browsersync.
+### An Object Detection Web App to classify Wayang category built on top of the YoLoV5 framework. Webapp documentation copied from the original HTML/SASS Jumpstart
 
-## Includes Minimal Theme and Components
+[**View the original documentation >**](https://5t3ph.github.io/html-sass-jumpstart/)
 
-[**View the documentation >**](https://5t3ph.github.io/html-sass-jumpstart/) available on Github pages, as well as the `index.html` file once you load the project.
-
-## Getting Started
-
-1. Select "Use this template" to copy this project into your own new repo.
-
-2. _Optional:_ Run a find/replace for `tdbc` to update to your preferred prefix (or adjust stylelint settings).
-
-3. You can customize the `theme` Sass directly, or place overrides to variables at the top of the main `style.scss` file before the `theme` file is imported.
-
-4. Then continue with the `develop` script and build something rad :)
 
 ## Development Scripts
 
@@ -46,8 +35,5 @@ Linting is provided by [Stylelint](https://stylelint.io/) and rules are extended
 
 > Run stylelint with the fix flag to attempt to resolve found errors
 
-## Feedback welcome!
-
-You can [file it as an issue](https://github.com/5t3ph/html-sass-jumpstart/issues).
-
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-violet.png)](https://www.buymeacoffee.com/moderncss)
+## Please support the original Jumpstart Creators
+[![Please support the original Jumpstart Creators](https://cdn.buymeacoffee.com/buttons/default-violet.png)](https://www.buymeacoffee.com/moderncss)
