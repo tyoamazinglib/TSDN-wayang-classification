@@ -41,16 +41,16 @@
       .camView p {
         position: absolute;
         padding: 5px;
-        background-color: rgba(255, 111, 0, 0.85);
+        background-color: #0f0;
         color: #FFF;
-        border: 1px dashed rgba(255, 255, 255, 0.7);
+        border: 1px #fff;
         z-index: 2;
         font-size: 12px;
       }
       
       .highlighter {
-        background: rgba(0, 255, 0, 0.25);
-        border: 1px dashed #fff;
+        background: rgba(0, 0, 0, 0);
+        border: 1px #0f0;
         z-index: 1;
         position: absolute;
       }
@@ -92,9 +92,6 @@
 
         <!-- Import TensorFlow.js library -->
         <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.11.0/dist/tf.min.js" type="text/javascript"></script>
-
-        <!-- Load the coco-ssd model to use to recognize things in images -->
-        <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
 
         <!-- Import the page's JavaScript to do some stuff -->
         <script src="js/scripts.js" defer></script>
